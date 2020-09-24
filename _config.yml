@@ -6,13 +6,13 @@ logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Sophiya Rajbhandari
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: I am current MS Bioinfomatics and Computational Biomedicine student at OHSU. I have been learning programming on my own.
+  email: rb.sophie8@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: #username
+  linkedin: Sophiya Rajbhandari
   github: #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
